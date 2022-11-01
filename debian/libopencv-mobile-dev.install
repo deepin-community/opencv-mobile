@@ -1,0 +1,3 @@
+usr/include/*
+usr/lib/*/libopencv_small.so
+usr/lib/*/pkgconfig/opencv_mobile.pc

@@ -1,0 +1,17 @@
+Source: opencv-mobile
+Section: utils
+Priority: optional
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Build-Depends: debhelper (>= 11), cmake
+Standards-Version: 3.9.8
+Homepage: http://www.deepin.org
+
+Package: libopencv-mobile
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: The minimal build of opencv library for the Android, IOS, and ARM Linux platforms.
+
+Package: libopencv-mobile-dev
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libopencv-mobile
+Description: The minimal build of opencv library for the Android, IOS, and ARM Linux platforms.

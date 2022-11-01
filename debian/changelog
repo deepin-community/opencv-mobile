@@ -1,0 +1,12 @@
+opencv-mobile (14+u002) UNRELEASED; urgency=medium
+
+  * update
+
+ -- Deepin Packages Builder <packages@deepin.com>  Wed, 21 Sep 2022 16:23:02 +0800
+
+opencv-mobile (14) unstable; urgency=medium
+
+  * Initial first edition on last release
+  * Modify upstream version from v14 to 14
+
+ -- WangZhengYang <wangzhengyang@uniontech.com>  Mon, 1 Aug 2022 15:21:54 +0800

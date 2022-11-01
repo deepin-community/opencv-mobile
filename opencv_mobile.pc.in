@@ -1,0 +1,9 @@
+prefix=${pcfiledir}/../../..
+librarydir=${prefix}/@CMAKE_INSTALL_LIBDIR@
+includedir=${prefix}/@CMAKE_INSTALL_INCLUDEDIR@
+
+Name: opencv_mobile
+Description: The minimal opencv
+Version: 14
+Libs: -L"${librarydir}" -lopencv_small
+Cflags: -I${includedir}
