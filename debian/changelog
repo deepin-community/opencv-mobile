@@ -1,3 +1,9 @@
+opencv-mobile (1:4.5.4+14) unstable; urgency=medium
+
+  * New version 1:4.5.4+14.
+
+ -- xiepengfei <xiepengfei@uniontech.com>  Wed, 30 Aug 2023 15:39:15 +0800
+
 opencv-mobile (14+u002) UNRELEASED; urgency=medium
 
   * update
