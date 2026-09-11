@@ -1,3 +1,9 @@
+opencv-mobile (1:4.5.4+15) unstable; urgency=medium
+
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Fri, 11 Sep 2026 17:25:52 +0800
+
 opencv-mobile (1:4.5.4+14) unstable; urgency=medium
 
   * New version 1:4.5.4+14.
